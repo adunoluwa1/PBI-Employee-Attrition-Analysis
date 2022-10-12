@@ -9,4 +9,4 @@ Machine Learning project to predict attrition
 
 ![KNN Algorithm](https://user-images.githubusercontent.com/99233674/195402993-5fcf1d5b-9f4e-4fa2-aba6-e29a2f034b58.jpg)
 
-![ML Algorithms Comparison](https://user-images.githubusercontent.com/99233674/195403019-fee5740b-03a5-4d87-ae03-59393576d90d.jpg)
+![ML Algorithms Comparison](https://user-images.githubusercontent.com/99233674/195403785-c1ae0f95-37d5-47d9-8088-3298cbbf0fe0.jpg)
